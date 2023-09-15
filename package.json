@@ -1,0 +1,19 @@
+{
+  "name": "4_1_j_bulanadi_web",
+  "version": "1.0.0",
+  "description": "This is an example of a fullstack web application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnzelBulanadiii28/4_1_J_Bulanadi_web.git"
+  },
+  "author": "Johnzel Bulanadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnzelBulanadiii28/4_1_J_Bulanadi_web/issues"
+  },
+  "homepage": "https://github.com/JohnzelBulanadiii28/4_1_J_Bulanadi_web#readme"
+}
